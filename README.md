@@ -4,4 +4,4 @@
 The project files for the video tutorial below
 
 
-* Unavailable for the moment *
+** Unavailable for the moment **
