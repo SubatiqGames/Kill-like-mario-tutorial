@@ -4,4 +4,4 @@
 The project files for the video tutorial below
 
 
-** Unavailable for the moment **
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EpmVj4U-K4A/0.jpg)](https://www.youtube.com/watch?v=EpmVj4U-K4A)
